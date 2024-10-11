@@ -47,3 +47,5 @@ for url in urls:
     print(f"\nScraping URL: {url}")
     scrape_golf_club_info(url)
 
+# test3_oct11.py : 여러 url에서 데이터 추출 성공
+# 골프장 2 이메일, 전화번호, 주소, 팩스번호
